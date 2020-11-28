@@ -5,7 +5,7 @@
  */
 package proyectopoo;
 
-import Interfaz.LoginOficial;
+import Formularios.LoginOficial;
 
 /**
  *
