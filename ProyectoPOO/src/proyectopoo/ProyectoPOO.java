@@ -5,6 +5,8 @@
  */
 package proyectopoo;
 
+import Interfaz.LoginOficial;
+
 /**
  *
  * @author pc
@@ -16,6 +18,8 @@ public class ProyectoPOO {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       LoginOficial frm = new LoginOficial();
+        frm.setVisible(true);
     }
     
 }
